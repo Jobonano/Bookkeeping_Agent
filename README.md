@@ -15,8 +15,8 @@ A simple Python-based bookkeeping system that helps users track their income and
 
 Clone this repository:
 ```bash
-git clone https://github.com/yourusername/bookkeeping-ai-agent
-cd bookkeeping-ai-agent
+git clone https://github.com/jobonano/Finance_Agent
+cd Finance_Agent
 ```
 
 No additional dependencies are required beyond Python's standard library.
@@ -25,7 +25,7 @@ No additional dependencies are required beyond Python's standard library.
 
 Run the program:
 ```bash
-python bookkeeping.py
+python index.py
 ```
 
 The program offers three main options:
