@@ -25,7 +25,7 @@ No additional dependencies are required beyond Python's standard library.
 
 Run the program:
 ```bash
-python index.py
+python index2.py
 ```
 
 The program offers three main options:
